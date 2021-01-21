@@ -1,3 +1,3 @@
 "use strict";
 //
-console.log("Как интересно!");
+console.log("Hello webpack!");
